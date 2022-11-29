@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "reunion"
+  site-url: "https://jm1021.github.io/reunion"
+  description: "Leuck Family Reunion"
+  repo-branch: main
+  repo-url: "https://github.com/jm1021/reunion"
